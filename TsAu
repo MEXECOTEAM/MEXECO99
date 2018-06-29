@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd Tshake
+cd MEXECO99
 echo -e "\e[33m          __  __   ______ _  ___ ____ _  __   ___\e[0m"
 echo -e "\e[33m         |  \/  | / ____|\\  //   ||  | |/ / / _ \\e[0m"
 echo -e "\e[33m         | |\/| | /|  _|  \\//    ||  |   / | | | |\e[0m"
