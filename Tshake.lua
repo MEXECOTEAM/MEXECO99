@@ -1642,9 +1642,9 @@ end
 if text:match("^تحديث السورس$") and tonumber(msg.sender_user_id_) == tonumber(sudo_add) then
 send(msg.chat_id_, msg.id_, 1, '☑┇تم التحديث', 1, 'md')
 os.execute('rm -rf ./libs/utils.lua')
-os.execute('cd libs && wget https://raw.githubusercontent.com/TshAkETEAM/Tshake/master/libs/utils.lua')
+os.execute('cd libs && wget https://raw.githubusercontent.com/MEXECOTEAM/MEXECO99/master/libs/utils.lua')
 os.execute('rm -rf Tshake.lua')
-os.execute('wget https://raw.githubusercontent.com/TshAkETEAM/Tshake/master/Tshake.lua')
+os.execute('wget https://raw.githubusercontent.com/MEXECOTEAM/MEXECO99/master/Tshake.lua')
 os.exit()
 return false
 end
@@ -4224,7 +4224,7 @@ end
   🔐┇الميديا
   🔐┇التكرار
   ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-  📡┇Ch ~⪼ @TshAkETEAM]]
+  📡┇Ch ~⪼ @MEXIC_TV]]
   send(msg.chat_id_, msg.id_, 1, (h1 or text), 1, 'md')
      end
   if (text and text == 'تغير امر م2') and tonumber(msg.sender_user_id_) == tonumber(sudo_add) then
@@ -4294,7 +4294,7 @@ end
   📮┇القوانين
   📮┇الصوره
   ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-  📡┇Ch ~⪼ @TshAkETEAM	
+  📡┇Ch ~⪼ @MEXIC_TV	
 							]]
   send(msg.chat_id_, msg.id_, 1, (h2 or text), 1, 'md')
      end
@@ -4463,22 +4463,22 @@ end
   🗯┇تفعيل الانلاين
   🗯┇تعطيل الانلاين
   ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-  📡┇Ch ~⪼ @TshAkETEAM]]
+  📡┇Ch ~⪼ @MEXIC_TV]]
   send(msg.chat_id_, msg.id_, 1, (h4 or text), 1, 'html')
      end
   if text:match("^اصدار$") or text:match("^الاصدار$") or text:match("^السورس$") or text:match("^سورس$") then
   local text =  [[
-  👋┇اهلا بك في سورس تشاكي 
+  👋┇اهلا بك في سورس مكسيكو 
     
-  🌐┇<strong>TshAkE TEAM</strong>
+  🌐┇<strong>MEXICO TEAM</strong>
     
-  🦁┇<a href="https://telegram.me/TshAkETEAM">قناه السورس</a>
-  📜┇<a href="https://telegram.me/TshAkE_DEV">قناه شروحات سورس</a>
-  📁┇<a href="https://telegram.me/TshAkEfiles">قناه ملفات السورس</a>
+  🦁┇<a href="https://telegram.me/EXIC_TV">قناه السورس</a>
+  📜┇<a href="https://telegram.me/MEXIC_TV">قناه شروحات سورس</a>
+  📁┇<a href="https://telegram.me/MEXIC_TV">قناه ملفات السورس</a>
     
-  🔎┇<a href="https://t.me/TshAkE_DEV/227">طريقه التنصيب</a>
+  🔎┇<a href="https://t.me/ZAHAYMR/227">طريقه التنصيب</a>
     
-  📮┇<a href="t.me/TSHELPBOT">لـ تواصل </a> 
+  📮┇<a href="t.me/ZAHAYMR">لـ تواصل </a> 
   ]]
   send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
   end
@@ -4722,10 +4722,10 @@ end
 end
 
 --[[
-   _____    _        _    _    _____
-  |_   _|__| |__    / \  | | _| ____|
-    | |/ __| '_ \  / _ \ | |/ /  _|
-    | |\__ \ | | |/ ___ \|   <| |___
-    |_||___/_| |_/_/   \_\_|\_\_____|
-              CH > @TshAkETEAM
+   __  __   ______ _  ___ ____ _  __   ___
+|  \/  | / ____|\\  //   ||  | |/ / / _ \
+| |\/| | /|  _|  \\//    ||  |   / | | | |
+| |  | | \| |___ //\\    ||  | . \ | |_| |  
+|_|  |_| \_____|//  \\  ____ |_|\_\ \___/
+              CH > @MEXIC_TV
 --]]
