@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-cd Tshake
-screen -S Tshake -X kill
-screen -S Tshake ./TsAu
+cd MEXECO99
+screen -S MEXECO99 -X kill
+screen -S MEXECO99 ./TsAu
